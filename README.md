@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakumar2012&label=Profile%20views&color=0e75b6&style=flat" alt="rudrakumar2012" /> </p>
 
-- 🔭 I’m currently working on [Recipe-Keeper](https://github.com/rudrakumar2012/Recipe-Keeper)
+- 🔭 I’m currently working on [StockSage-AI](https://github.com/rudrakumar2012/StockSage-AI)
 
 - 🌱 I’m currently learning **Reactjs, Nodejs, TypeScript**
 
